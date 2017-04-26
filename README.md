@@ -1,6 +1,6 @@
 # npmdoc-co-request
 
-#### api documentation for  [co-request (v1.0.0)](https://github.com/leukhin/co-request#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-co-request.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-co-request) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-co-request.svg)](https://travis-ci.org/npmdoc/node-npmdoc-co-request)
+#### basic api documentation for  [co-request (v1.0.0)](https://github.com/leukhin/co-request#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-co-request.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-co-request) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-co-request.svg)](https://travis-ci.org/npmdoc/node-npmdoc-co-request)
 
 #### co-request promisify wrapper for request
 
@@ -73,7 +73,8 @@
     "scripts": {
         "test": "mocha --harmony test/test.js"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
